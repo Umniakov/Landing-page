@@ -219,6 +219,11 @@ button {
     
 }
 
+button:hover {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
 .fourth-section button {
  border: 3px solid #f9faf8;
 }
